@@ -45,25 +45,23 @@ The system works by:
 
 Installation
 
-    Clone the repository:
+Clone the repository:
 
-    bash
+ 
 
-git clone https://github.com/ThiruEigen7/AI-Powered-Conversational-System-for-Multi-PDF-Interaction.git
-cd AI-Powered-Conversational-System-for-Multi-PDF-Interaction
+    git clone https://github.com/ThiruEigen7/AI-Powered-Conversational-System-for-Multi-PDF-Interaction.git
+    cd AI-Powered-Conversational-System-for-Multi-PDF-Interaction
 
 Install the required dependencies:
 
-bash
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Set up API keys:
 
-    Obtain your Google API key for Google Gemini Pro.
-    Create a .env file in the root of the project and add your API key:
+Obtain your Google API key for Google Gemini Pro.
+Create a .env file in the root of the project and add your API key:
 
-    bash
 
     GOOGLE_API_KEY=your_api_key_here
 
@@ -73,7 +71,7 @@ bash
 
     streamlit run app.py
 
-    Upload PDFs and interact: Use the sidebar to upload PDF documents and start querying through the interface.
+Upload PDFs and interact: Use the sidebar to upload PDF documents and start querying through the interface.
 
 Usage
 
