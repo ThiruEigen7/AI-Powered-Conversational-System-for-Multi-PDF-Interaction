@@ -49,8 +49,8 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/ai-conversational-pdf-system.git
-cd ai-conversational-pdf-system
+git clone https://github.com/ThiruEigen7/AI-Powered-Conversational-System-for-Multi-PDF-Interaction.git
+cd AI-Powered-Conversational-System-for-Multi-PDF-Interaction
 
 Install the required dependencies:
 
